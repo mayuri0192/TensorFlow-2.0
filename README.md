@@ -1,9 +1,9 @@
 # TensorFlow-2.0
-Practicing/ Ussage of different packages and functions of TensorFlow Python API
+Practicing/ Usage of different packages and functions of TensorFlow Python API
 
 Custom Models and Trainings using TensorFlow 2.0
 
-### Tensors and Operations
+**Tensors and Operations**
 
 - Tensors
 - Indexing
@@ -21,11 +21,13 @@ Custom Models and Trainings using TensorFlow 2.0
 
 - Custom Loss function
 
-### Saving/Loading Models with Custom Objects
+**Saving and Loading Models That Contain Custom Components**
 
-### Other Custom Functions, Metrics, Layers, Models 
+**Other Custom Functions, Metrics, Layers, Models**
 
-### Losses and Metrics Based on Model Internals
+**Losses and Metrics Based on Model Internals**
+
+
 
 ### Computing Gradients with Autodiff
 
